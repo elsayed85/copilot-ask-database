@@ -10,7 +10,7 @@
 You can install the package via composer:
 
 ```bash
-composer require elsayed85/copilot-ask-database "@dev"
+composer require elsayed85/copilot-ask-database "@dev-master"
 ```
 
 You can publish the config file with:
